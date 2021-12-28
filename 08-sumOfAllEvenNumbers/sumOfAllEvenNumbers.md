@@ -40,3 +40,5 @@ The test suite (`sumOfAllEvenNumbers.test.js`) is ultimately designed to verify 
 2) The value of your output should correspond to the amount of values in the input array `nums` that are even
 3) In defending against hard-coding, any and all well-formed arguments will lead to the accurate amount of values in the input array `nums` that are even (**note**: see the respective test suite for more information)
 4) The input array `nums` is not mutated
+
+for assignment 0 question 8 should be count of all even numbers, not the sumOfAllEvenNumbers
