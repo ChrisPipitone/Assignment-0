@@ -1,0 +1,19 @@
+{
+  "name": "11-sumofminimumandmaximum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumOfMinimumAndMaximum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisPipitone/Assignment-0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisPipitone/Assignment-0/issues"
+  },
+  "homepage": "https://github.com/ChrisPipitone/Assignment-0#readme"
+}
